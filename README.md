@@ -8,13 +8,13 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 
 ## Participantes
 ### 🚀 Líder Técnico
-[NOME e GITHUB]
+[Marlitos e GITHUB]
 
 ### 👻 Caçadores de Bugs
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
+* [Alex e GITHUB]
+* [Minhoca e GITHUB]
+* [Andre e GITHUB]
+* [Daniel Lima - @CoderDominus]
 
 ## ⚙️ Tecnologias
 * C# 12
